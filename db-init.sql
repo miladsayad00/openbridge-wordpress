@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wordpress'@'%' IDENTIFIED BY '*XalL*85Lon&Qwu7gRSp';
+FLUSH PRIVILEGES;
